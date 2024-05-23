@@ -6,8 +6,8 @@
 
 CSS is a language that describes the style of an HTML document. It's used to make web pages look good and work well on different devices. In this skill tree, you'll learn how to use CSS to style your web pages.
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                 |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                |
+|---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First CSS Lab                                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-css-lab-92744)                                  |
 |      02 | 📖 CSS Basics and Selectors                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/css-basics-and-selectors-289074)                           |
 |      03 | 📖 CSS Box Model and Margins                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/css-box-model-and-margins-289075)                          |
@@ -136,7 +136,8 @@ CSS is a language that describes the style of an HTML document. It's used to mak
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [CSS Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [CSS Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
